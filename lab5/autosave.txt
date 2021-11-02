@@ -1,0 +1,4 @@
+KEY = 4, color: "green", size: 10, 
+KEY = 3, color: "blue", size: 10, 
+KEY = 2, color: "blue", size: 10, зубная щётка 
+KEY = 1, color: "yellow", size: 10, мыло зубная щётка 

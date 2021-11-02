@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<collection>
+    <Object>
+        <key>1</key>
+        <hat>
+            <color>yellow</color>
+            <size>10</size>
+            <things><item>SOAP</item><item>TOOTHBRUSH</item></things>
+        </hat>
+    </Object>
+    <Object>
+        <key>2</key>
+        <hat>
+            <color>blue</color>
+            <size>10</size>
+            <things><item>NAIL</item><item>TOOTHBRUSH</item><item>TOOTHBRUSH</item></things>
+        </hat>
+    </Object>
+    <Object>
+        <key>3</key>
+        <hat>
+            <color>blue</color>
+            <size>10</size>
+        </hat>
+    </Object>
+</collection>

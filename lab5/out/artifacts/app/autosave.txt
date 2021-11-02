@@ -1,0 +1,3 @@
+KEY = 3 Color = green Size = 9
+KEY = 2 Color = black Size = 5
+KEY = 1 Color = yellow Size = 10
