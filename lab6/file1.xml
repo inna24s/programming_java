@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<collection>
+    <Object>
+        <key>1</key>
+        <hat>
+            <name>"aa"</name>
+            <color>"yellow"</color>
+            <size>8</size>
+            <things><item>SOAP</item><item>TOOTHBRUSH</item></things>
+        </hat>
+    </Object>
+    <Object>
+        <key>2</key>
+        <hat>
+            <name>"bb"</name>
+            <color>"blue"</color>
+            <size>5</size>
+            <things><item>NAIL</item><item>SOAP</item><item>TOOTHBRUSH</item></things>
+        </hat>
+    </Object>
+    <Object>
+        <key>3</key>
+        <hat>
+            <name>"cc"</name>
+            <color>"blue"</color>
+            <size>5</size>
+        </hat>
+    </Object>
+    <Object>
+        <key>4</key>
+        <hat>
+            <name>"ab"</name>
+            <color>"red"</color>
+            <size>6</size>
+        </hat>
+    </Object>
+</collection>
